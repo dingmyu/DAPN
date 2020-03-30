@@ -28,6 +28,8 @@ The framework is implemented and tested with Ubuntu 16.04, CUDA 8.0/9.0, Python 
 
 Download and unzip the datasets: **MiniImageNet, TieredImageNet, DomainNet**.
 
+Here we provide the datasets of target domain in Google Drive, [miniImageNet](https://drive.google.com/file/d/1Ai0070r-eZoJb_4vamYipYKbX24jkjFg), [tieredImageNet](https://drive.google.com/file/d/18xpXtAAm_onIcwxtesRaXiHt99hm7ln6).
+
 Format:
 (E.g. mini-imagenet)
   ```shell
